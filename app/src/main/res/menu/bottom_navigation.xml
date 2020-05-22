@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/User2"
+        android:title="" />
+    <item
+        android:id="@+id/nav_performances"
+        android:icon="@drawable/Music_Note"
+        android:checked="true"
+        android:title="" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/Volume_Control"
+        android:title="" />
+
+</menu>
